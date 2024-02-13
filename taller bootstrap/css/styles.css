@@ -1,0 +1,23 @@
+.col-img {
+    background-image: url('../assets/img/astronaut-4106766_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}.bg-primary {
+    background: #a6a19b !important;
+}
+
+.btn_secondary {
+    background: #b48e6f ! important;
+    border: none;
+}
+
+.pb-6 {
+    padding-bottom: 100px;
+}
+
+@media (max-wdht: 768px) {
+    .pb-6 {
+        padding-bottom: 80px;
+    }
+}
